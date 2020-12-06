@@ -1,4 +1,4 @@
-<h1> A* Pathfinding Visualization </h1>
+# A* Pathfinding Visualization:
 This program helps visualize the A* Pathfinding Search Alogorithm 
 <br>
 Find the shortest distance from point A -> point B <br>
@@ -8,7 +8,7 @@ Find the shortest distance from point A -> point B <br>
   <li> F(n) = H(n) + G(n) </li>
 </ul>
 <br>
-<h2> Languages Used: </h2>
+## Languages Used:
 <br>
 Python - pyGame
 
