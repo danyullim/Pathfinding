@@ -7,8 +7,6 @@ Find the shortest distance from point A -> point B <br>
   <li> G(n) current shortest distance from start node to "n" </li>
   <li> F(n) = H(n) + G(n) </li>
 </ul>
-<br>
 
 ## Languages Used:
-<br>
 Python - pyGame
